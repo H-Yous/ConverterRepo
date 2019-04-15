@@ -8,7 +8,7 @@ class codeTwo {
 
 
 class Conversions{
-
+ //
 
 	public void decimalToBinary(int A){
 		int toconvert = A;
